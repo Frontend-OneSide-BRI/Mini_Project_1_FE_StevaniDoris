@@ -3,105 +3,105 @@ const galleryItems = [
         id:"1",
         alt:"Forest 1",
         category:"forest",
-        src:"./assets/img/card/forest-1.jpg",
+        src:"https://images.unsplash.com/photo-1448375240586-882707db888b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
         info:"Forest 1"
     },
     {
         id:"2",
         alt:"Forest 2",
         category:"forest",
-        src:"./assets/img/card/forest-2.jpg",
+        src:"https://images.unsplash.com/photo-1473448912268-2022ce9509d8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2041&q=80",
         info:"Forest 2"
     },
     {
         id:"3",
         alt:"Mountain 1",
         category:"mountain",
-        src:"./assets/img/card/mountain-1.jpg",
+        src:"https://images.unsplash.com/photo-1454496522488-7a8e488e8606?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1176&q=80",
         info:"Mountain 1"
     },
     {
         id:"4",
         alt:"Beach 1",
         category:"beach",
-        src:"./assets/img/card/beach-1.jpg",
+        src:"https://images.unsplash.com/photo-1507525428034-b723cf961d3e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1173&q=80",
         info:"Beach 1"
     },
     {
         id:"5",
         alt:"Mountain 2",
         category:"mountain",
-        src:"./assets/img/card/mountain-2.jpg",
+        src:"https://images.unsplash.com/photo-1519681393784-d120267933ba?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
         info:"Mountain 2"
     },
     {
         id:"6",
         alt:"Beach 2",
         category:"beach",
-        src:"./assets/img/card/beach-2.jpg",
+        src:"https://images.unsplash.com/photo-1519046904884-53103b34b206?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
         info:"Beach 2"
     },
     {
         id:"7",
         alt:"Beach 3",
         category:"beach",
-        src:"./assets/img/card/beach-3.jpg",
+        src:"https://images.unsplash.com/photo-1520942702018-0862200e6873?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
         info:"Beach 3"
     },
     {
         id:"8",
         alt:"Forest 3",
         category:"forest",
-        src:"./assets/img/card/forest-3.jpg",
+        src:"https://images.unsplash.com/photo-1425913397330-cf8af2ff40a1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80",
         info:"Forest 3"
     },
     {
         id:"9",
         alt:"Forest 4",
         category:"forest",
-        src:"./assets/img/card/forest-4.jpg",
+        src:"https://images.unsplash.com/photo-1542273917363-3b1817f69a2d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2074&q=80",
         info:"Forest 4"
     },
     {
         id:"9",
         alt:"Mountain 3",
         category:"mountain",
-        src:"./assets/img/card/mountain-3.jpg",
+        src:"https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
         info:"Mountain 3"
     },
     {
         id:"10",
         alt:"Mountain 4",
         category:"mountain",
-        src:"./assets/img/card/mountain-4.jpg",
+        src:"https://images.unsplash.com/photo-1493246507139-91e8fad9978e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
         info:"Mountain 4"
     },
     {
         id:"11",
         alt:"Beach 4",
         category:"beach",
-        src:"./assets/img/card/beach-4.jpg",
+        src:"https://images.unsplash.com/photo-1476673160081-cf065607f449?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1172&q=80",
         info:"Beach 4"
     },
     {
         id:"12",
         alt:"Mountain 5",
         category:"mountain",
-        src:"./assets/img/card/mountain-5.jpg",
+        src:"https://images.unsplash.com/photo-1465056836041-7f43ac27dcb5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1171&q=80",
         info:"Mountain 5"
     },
     {
         id:"13",
         alt:"Mountain 6",
         category:"mountain",
-        src:"./assets/img/card/mountain-6.jpg",
+        src:"https://images.unsplash.com/photo-1547093349-65cdba98369a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
         info:"Mountain 6"
     },
     {
         id:"14",
         alt:"Beach 5",
         category:"beach",
-        src:"./assets/img/card/beach-5.jpg",
+        src:"https://images.unsplash.com/photo-1515238152791-8216bfdf89a7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1172&q=80",
         info:"Beach 5"
     }
 ];
